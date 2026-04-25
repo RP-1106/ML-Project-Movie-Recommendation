@@ -1,0 +1,16 @@
+@"
+mlcheckin310/
+venv/
+env/
+__pycache__/
+.env
+*.pyc
+*.csv
+*.parquet
+*.h5
+*.pkl
+*.pt
+*.pth
+*.bin
+*.ckpt
+"@ | Out-File -FilePath .gitignore -Encoding utf8
