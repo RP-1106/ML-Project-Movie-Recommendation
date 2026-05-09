@@ -46,7 +46,7 @@ python feature_engineering.py
 
 ## Dataset
 
-[Netflix Audience Behaviour — UK Movies](https://www.kaggle.com/) on Kaggle. Place `netflix_uk_data_filtered.csv` in the project root before running `feature_engineering.py`.
+[Netflix Audience Behaviour — UK Movies]([https://www.kaggle.com/](https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies)) on Kaggle. Place `netflix_uk_data_filtered.csv` in the project root before running `feature_engineering.py`.
 
 ---
 
