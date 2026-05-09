@@ -21,8 +21,8 @@ Evaluation uses leave-one-out full ranking over all 8,411 items — the same pro
 ## Results 
 | Model | HR@10 | NDCG@10 | MRR |
 |---|---|---|---|
-| **BERT4Rec v2** | **0.3085** | **0.2081** | **0.1855** |
-| SASRec v3 | 0.2849 | 0.1853 | 0.1634 |
+| **BERT4Rec v2** | **0.3085** | **0.2081** | **0.1966** |
+| SASRec | 0.2849 | 0.1853 | 0.1634 |
 | GRU-LightGCN | 0.1836 | 0.1082 | 0.0947 |
 | LightGCN | 0.1636 | 0.0982 | 0.0847 |
 
